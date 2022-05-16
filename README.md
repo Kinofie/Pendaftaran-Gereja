@@ -1,5 +1,5 @@
-[Download](#download)
 # Pendaftaran Gereja
+[Download](#download)
 ada 3 menu yang dibuat :
 .[Daftar Misa](#Daftar-Misa)
 .[Daftar Umat](#Daftar-Umat)
